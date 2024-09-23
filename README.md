@@ -1,6 +1,6 @@
 # ExiroEasy_Pin Library
 
-![ExiroEasy_Pin Logo](link_to_your_logo_image) <!-- Ganti dengan URL logo jika ada -->
+![ExiroEasy_Pin Logo](http://corporate.exirostudio.my.id/wp-content/uploads/2024/08/Group-1-150x150.png) <!-- Ganti dengan URL logo jika ada -->
 
 ## Deskripsi
 ExiroEasy_Pin adalah library Arduino yang dirancang untuk memudahkan pengendalian pin dengan cara yang dinamis dan fleksibel. Library ini cocok untuk berbagai proyek IoT dan elektronik, memungkinkan kamu untuk menghidupkan dan mematikan pin dengan opsi tambahan.
