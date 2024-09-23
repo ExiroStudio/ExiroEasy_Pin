@@ -1,0 +1,8 @@
+name=ExiroEasy_Pin
+version=1.0
+author=Exiro
+maintainer=Exiro <exirostudio@gmail.com>
+sentence=Library untuk mempermudah kontrol pin
+paragraph=Library untuk mempermudah kontrol pin
+category=Pin
+architectures=*
