@@ -41,11 +41,6 @@ Untuk informasi lebih lanjut, silakan lihat dokumentasi di [Wiki](link_to_your_w
 ## Lisensi
 Library ini dilisensikan di bawah [MIT License](LICENSE).
 
-## Kontak
-Jika ada pertanyaan atau saran, silakan hubungi kami:
-- **Email**: [contact@exirostudio.com](mailto:contact@exirostudio.com)
-- **Website**: [www.exirostudio.com](http://www.exirostudio.com)
-
 ## Terima Kasih!
 Kami berharap library ini bermanfaat untuk proyek Anda. Selamat berkoding!
 ```
