@@ -43,4 +43,3 @@ Library ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## Terima Kasih!
 Kami berharap library ini bermanfaat untuk proyek Anda. Selamat berkoding!
-```
